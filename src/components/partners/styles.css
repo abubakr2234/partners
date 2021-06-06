@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Questrial&family=Roboto&display=swap');
+
+.part{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  
+  }
+  .vuna{
+    padding: 10px;
+    flex: 50%;
+  }
+  
+  .main {
+    padding: 10px;
+    flex: 50%;
+  }
+  
+  
+  h2 {
+    padding-left: 20px;
+    padding-top: 10px;
+      height: 96px;
+      width: 372px;
+      color: #141E2A;
+      font-family: 'Roboto', sans-serif;
+      font-size: 40px;
+      font-weight: 600;
+      letter-spacing: 0;
+      line-height: 48px;
+  }
+  p { 
+    padding-left: 40px;
+    padding-top: 100px;
+       height: 130px;
+      width: 445px;
+      color: #141E2A;
+      font-family: 'Baloo Tammudu 2', cursive;
+      font-size: 20px;
+      letter-spacing: 0;
+      line-height: 32px;
+    }
+    button{
+
+      height: 17px;
+      width: 133px;
+      color: #A8774F;
+      font-family: Gibson;
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      line-height: 17px;
+    
+    }
+  
+  
+  
+  .h1 {
+      padding-left: 240px;
+      height: 148px;
+      width: 386px;
+      color: #141E2A;
+      font-family: "P22 Underground";
+      font-size: 80px;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+      line-height: 80px;
+  }
+  
